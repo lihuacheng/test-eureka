@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.alimaomao</groupId>
-	<artifactId>EurekaServer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>eureka-server</artifactId>
+	<version>snapshot</version>
 	<packaging>jar</packaging>
 
-	<name>EurekaServer</name>
+	<name>eureka-server</name>
 	<description>Eureka Server project for Spring Boot</description>
 
 	<parent>
